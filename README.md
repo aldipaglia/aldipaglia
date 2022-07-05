@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aldipaglia
 - 👀 I’m looking for new and exciting projects to improve my skills 💻
-- 🌱 I’m currently working professionally with React Native (6 month ago 👶) I also know React JS, JavaScript Vanilla, and at the moment I am learning NodeJs.
+- 🌱 I’m working professionally 1 and a half years ago with React JS, React Native, JavaScript Vanilla, Jest, Express, Next, and at the moment I am learning NodeJs.
 - 💞️ I’m looking to join on a team that challenge me to know more and be better!
 - 📫 How to reach me? paglialungaaldana@gmail.com :)
 <!---
